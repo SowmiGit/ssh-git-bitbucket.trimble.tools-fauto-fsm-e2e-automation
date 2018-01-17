@@ -1,0 +1,1 @@
+# ssh-git-bitbucket.trimble.tools-fauto-fsm-e2e-automation
